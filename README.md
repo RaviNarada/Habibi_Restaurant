@@ -2,6 +2,10 @@
 
 A modern and SEO-optimized restaurant website built for **Habibi**, a local restaurant brand. This project was completed as part of a freelancing engagement and focuses on providing an engaging, responsive, and fast-performing user experience.
 
+## 📸 Demo
+
+[Live Preview][(https://your-live-demo-link.com](https://habibivizag.com/))
+
 ## 🌟 Features
 
 - 🖥️ Fully responsive UI for mobile, tablet, and desktop
@@ -44,10 +48,4 @@ A modern and SEO-optimized restaurant website built for **Habibi**, a local rest
 ## 💬 Client Feedback
 
 > "This website helped boost our online orders significantly! Work was on time and exceeded our expectations."
-
-## 📸 Demo
-
-[Live Preview][(https://your-live-demo-link.com](https://habibivizag.com/))
-
-## 📂 Folder Structure
 
