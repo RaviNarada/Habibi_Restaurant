@@ -4,6 +4,8 @@ A modern and SEO-optimized restaurant website built for **Habibi**, a local rest
 
 ## 📸 Demo
 
+Live View : https://habibi-restaurant-smoky.vercel.app/
+
 [Live Preview][(https://your-live-demo-link.com](https://ravinarada.github.io/Habibi_Restaurant/))
 
 ## 🌟 Features
