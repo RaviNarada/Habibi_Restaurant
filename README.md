@@ -4,7 +4,7 @@ A modern and SEO-optimized restaurant website built for **Habibi**, a local rest
 
 ## 📸 Demo
 
-[Live Preview][(https://your-live-demo-link.com](https://habibivizag.com/))
+[Live Preview][(https://your-live-demo-link.com](https://ravinarada.github.io/Habibi_Restaurant/))
 
 ## 🌟 Features
 
